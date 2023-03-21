@@ -1,0 +1,1308 @@
+20:40:10.504 | Info | '--- Starting ---' | 
+20:40:35.984 | Info | ({}) | 
+20:40:35.982 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:41:16.316 | Info | '--- Starting ---' | 
+20:41:16.339 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:41:16.344 | Info | '---- in the convert pcl queue ---' | 
+20:41:16.341 | Info | 'After push' | 
+20:41:16.346 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:41:16.347 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:41:16.824 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':15460,'stdout':({}),'stderr':({})}) | 
+20:41:16.829 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:41:16.830 | Info | 'PCL file exists, safe to try and delete' | 
+20:41:16.832 | Info | 'Failed to delete file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:42:14.456 | Info | '--- Starting ---' | 
+20:42:14.477 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:42:14.480 | Info | '---- in the convert pcl queue ---' | 
+20:42:14.480 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:42:14.478 | Info | 'After push' | 
+20:42:14.481 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:42:14.618 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':15468,'stdout':({}),'stderr':({})}) | 
+20:42:14.625 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:42:14.626 | Info | 'PCL file exists, safe to try and move' | 
+20:42:14.628 | Info | 'Failed to move file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:42:32.399 | Info | '--- Starting ---' | 
+20:42:32.427 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:42:32.429 | Info | 'After push' | 
+20:42:32.432 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:42:32.431 | Info | '---- in the convert pcl queue ---' | 
+20:42:32.434 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:42:32.588 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':21424,'stdout':({}),'stderr':({})}) | 
+20:42:32.600 | Info | 'Failed to move file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:42:32.598 | Info | 'PCL file exists, safe to try and move' | 
+20:42:32.598 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:42:52.043 | Info | '--- Starting ---' | 
+20:42:52.062 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:42:52.068 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:42:52.067 | Info | '---- in the convert pcl queue ---' | 
+20:42:52.064 | Info | 'After push' | 
+20:42:52.069 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:42:52.218 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':18188,'stdout':({}),'stderr':({})}) | 
+20:42:52.226 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:42:52.227 | Info | 'PCL file exists, safe to try and move' | 
+20:42:52.230 | Info | 'Failed to move file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:43:41.653 | Info | '--- Starting ---' | 
+20:43:41.673 | Info | 'After push' | 
+20:43:41.675 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:43:41.671 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:43:41.675 | Info | '---- in the convert pcl queue ---' | 
+20:43:41.676 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:43:41.805 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':21680,'stdout':({}),'stderr':({})}) | 
+20:43:41.812 | Info | 'PCL file exists, safe to try and move' | 
+20:43:41.812 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:43:41.814 | Info | 'Failed to move file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:44:14.934 | Info | '--- Starting ---' | 
+20:44:14.964 | Info | '---- in the convert pcl queue ---' | 
+20:44:14.958 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:44:14.964 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:44:14.961 | Info | 'After push' | 
+20:44:14.965 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:44:15.087 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':16868,'stdout':({}),'stderr':({})}) | 
+20:44:15.094 | Info | 'PCL file exists, safe to try and move' | 
+20:44:15.093 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:44:15.095 | Info | 'Failed to move file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:44:27.303 | Info | '--- Starting ---' | 
+20:44:27.321 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:44:27.325 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:44:27.324 | Info | '---- in the convert pcl queue ---' | 
+20:44:27.323 | Info | 'After push' | 
+20:44:27.326 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:44:27.453 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':17612,'stdout':({}),'stderr':({})}) | 
+20:44:27.459 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:44:27.460 | Info | 'PCL file exists, safe to try and move' | 
+20:44:27.461 | Info | 'Failed to move file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:44:45.897 | Info | '--- Starting ---' | 
+20:44:45.916 | Info | 'After push' | 
+20:44:45.915 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:44:45.918 | Info | '---- in the convert pcl queue ---' | 
+20:44:45.919 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:44:45.920 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:44:46.027 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':17488,'stdout':({}),'stderr':({})}) | 
+20:44:46.032 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:44:46.033 | Info | 'PCL file exists, safe to try and move' | 
+20:44:46.034 | Info | 'Failed to move file: C:\\v1home\\pcl_pickup\\supp.pcl because of error: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined' | 
+20:47:22.436 | Info | '--- Starting ---' | 
+20:47:22.454 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:47:22.456 | Info | 'After push' | 
+20:47:22.461 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:47:22.459 | Info | '---- in the convert pcl queue ---' | 
+20:47:22.461 | Info | 'DbSVPDF CMD: "C:/V1Home/utils/dbsvpdf/DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:/v1home/pcl_pdfs/supp.pdf"' | 
+20:47:22.589 | Info | ({'status':1,'signal':null,'output':[null,({}),({})],'pid':9084,'stdout':({}),'stderr':({})}) | 
+20:47:22.595 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp.pcl" to Failed Directory: "c:/v1home/failed_conversion"' | 
+20:47:22.596 | Info | 'PCL file exists, safe to try and move' | 
+20:47:22.599 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:47:32.081 | Info | '--- Starting ---' | 
+20:48:32.742 | Info | '--- Starting ---' | 
+20:53:08.015 | Info | '--- Starting ---' | 
+20:53:08.032 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:53:08.038 | Info | '---- in the convert pcl queue ---' | 
+20:53:08.036 | Info | 'After push' | 
+20:53:08.038 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:53:08.039 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:\\v1home\\pcl_pdfs/supp.pdf"' | 
+20:53:09.705 | Info | 'File: C:\\v1home\\pcl_pickup\\supp.pcl exists, delete it' | 
+20:53:09.711 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:53:56.948 | Info | '--- Starting ---' | 
+20:54:03.105 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+20:54:03.112 | Info | '---- in the convert pcl queue ---' | 
+20:54:03.109 | Info | 'After push' | 
+20:54:03.114 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+20:54:03.116 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (2).pdf"' | 
+20:54:03.536 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+20:54:03.531 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl exists, delete it' | 
+20:54:03.534 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+20:54:03.536 | Info | 'After push' | 
+20:54:03.537 | Info | '---- in the convert pcl queue ---' | 
+20:54:03.537 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+20:54:03.538 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (12).pdf"' | 
+20:54:03.890 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+20:54:03.887 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl exists, delete it' | 
+20:54:03.891 | Info | 'After push' | 
+20:54:03.891 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+20:54:03.893 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (9).pdf"' | 
+20:54:03.893 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+20:54:03.892 | Info | '---- in the convert pcl queue ---' | 
+20:54:04.255 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl exists, delete it' | 
+20:54:04.257 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+20:54:04.259 | Info | 'After push' | 
+20:54:04.258 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+20:54:04.260 | Info | '---- in the convert pcl queue ---' | 
+20:54:04.261 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+20:54:04.262 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (14).pdf"' | 
+20:54:04.622 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl exists, delete it' | 
+20:54:04.627 | Info | 'After push' | 
+20:54:04.625 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+20:54:04.625 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+20:54:04.628 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+20:54:04.629 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (13).pdf"' | 
+20:54:04.628 | Info | '---- in the convert pcl queue ---' | 
+20:54:04.962 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl exists, delete it' | 
+20:54:04.966 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+20:54:04.965 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+20:54:04.966 | Info | 'After push' | 
+20:54:04.968 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (8).pdf"' | 
+20:54:04.967 | Info | '---- in the convert pcl queue ---' | 
+20:54:04.967 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+20:54:05.354 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl exists, delete it' | 
+20:54:05.359 | Info | 'After push' | 
+20:54:05.358 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+20:54:05.358 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl' | 
+20:54:05.360 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl' | 
+20:54:05.360 | Info | '---- in the convert pcl queue ---' | 
+20:54:05.361 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (18).pdf"' | 
+20:54:05.737 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl' | 
+20:54:05.734 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl exists, delete it' | 
+20:54:05.738 | Info | 'After push' | 
+20:54:05.738 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+20:54:05.739 | Info | '---- in the convert pcl queue ---' | 
+20:54:05.740 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (3).pdf"' | 
+20:54:06.092 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl exists, delete it' | 
+20:54:05.739 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+20:54:06.096 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+20:54:06.095 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+20:54:06.097 | Info | 'After push' | 
+20:54:06.097 | Info | '---- in the convert pcl queue ---' | 
+20:54:06.097 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+20:54:06.098 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (10).pdf"' | 
+20:54:06.483 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+20:54:06.481 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl exists, delete it' | 
+20:54:06.485 | Info | 'After push' | 
+20:54:06.484 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl' | 
+20:54:06.487 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl' | 
+20:54:06.486 | Info | '---- in the convert pcl queue ---' | 
+20:54:06.487 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (15).pdf"' | 
+20:54:06.881 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl exists, delete it' | 
+20:54:06.884 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl' | 
+20:54:06.885 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+20:54:06.885 | Info | 'After push' | 
+20:54:06.886 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy.pcl' | 
+20:54:06.886 | Info | 'After push' | 
+20:54:06.888 | Info | 'After push' | 
+20:54:06.887 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:54:06.888 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+20:54:06.888 | Info | 'After push' | 
+20:54:06.889 | Info | 'After push' | 
+20:54:06.889 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+20:54:06.890 | Info | 'After push' | 
+20:54:06.890 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:54:06.891 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:54:06.892 | Info | 'After push' | 
+20:54:06.895 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+20:54:06.896 | Info | 'After push' | 
+20:54:06.897 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+20:54:06.898 | Info | 'After push' | 
+20:55:36.459 | Info | '--- Starting ---' | 
+20:55:36.483 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:55:36.485 | Info | 'After push' | 
+20:55:36.486 | Info | '---- in the convert pcl queue ---' | 
+20:55:36.487 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (11).pdf"' | 
+20:55:36.487 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:55:36.846 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:55:36.844 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl exists, delete it' | 
+20:55:36.847 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+20:55:36.848 | Info | 'After push' | 
+20:55:36.849 | Info | '---- in the convert pcl queue ---' | 
+20:55:36.849 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+20:55:36.850 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (16).pdf"' | 
+20:55:37.210 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl exists, delete it' | 
+20:55:37.212 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+20:55:37.214 | Info | 'After push' | 
+20:55:37.214 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+20:55:37.216 | Info | '---- in the convert pcl queue ---' | 
+20:55:37.217 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (17).pdf"' | 
+20:55:37.217 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+20:55:37.537 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl exists, delete it' | 
+20:55:37.542 | Info | 'After push' | 
+20:55:37.540 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+20:55:37.542 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+20:55:37.543 | Info | '---- in the convert pcl queue ---' | 
+20:55:37.544 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+20:55:37.544 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (4).pdf"' | 
+20:55:37.855 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl exists, delete it' | 
+20:55:37.860 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:55:37.858 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+20:55:37.860 | Info | 'After push' | 
+20:55:37.861 | Info | '---- in the convert pcl queue ---' | 
+20:55:37.861 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:55:37.862 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (5).pdf"' | 
+20:55:38.201 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl exists, delete it' | 
+20:55:38.203 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:55:38.206 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+20:55:38.206 | Info | 'After push' | 
+20:55:38.207 | Info | '---- in the convert pcl queue ---' | 
+20:55:38.208 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (6).pdf"' | 
+20:55:38.208 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+20:55:38.527 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl exists, delete it' | 
+20:55:38.530 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+20:55:38.531 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+20:55:38.533 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl" "c:\\v1home\\pcl_pdfs/supp - Copy (7).pdf"' | 
+20:55:38.532 | Info | '---- in the convert pcl queue ---' | 
+20:55:38.533 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+20:55:38.532 | Info | 'After push' | 
+20:55:38.887 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl exists, delete it' | 
+20:55:38.891 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+20:55:38.894 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy.pcl' | 
+20:55:38.897 | Info | '---- in the convert pcl queue ---' | 
+20:55:38.895 | Info | 'After push' | 
+20:55:38.897 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy.pcl' | 
+20:55:38.898 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy.pcl" "c:\\v1home\\pcl_pdfs/supp - Copy.pdf"' | 
+20:55:39.219 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy.pcl' | 
+20:55:39.217 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy.pcl exists, delete it' | 
+20:55:39.220 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:55:39.221 | Info | 'After push' | 
+20:55:39.221 | Info | '---- in the convert pcl queue ---' | 
+20:55:39.222 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:55:39.222 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:\\v1home\\pcl_pdfs/supp.pdf"' | 
+20:55:40.876 | Info | 'File: C:\\v1home\\pcl_pickup\\supp.pcl exists, delete it' | 
+20:55:40.881 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+20:55:45.164 | Info | '--- Starting ---' | 
+20:56:19.854 | Info | '--- Starting ---' | 
+20:56:46.249 | Info | '---- in the convert pcl queue ---' | 
+20:56:46.242 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+20:56:46.246 | Info | 'After push' | 
+20:56:46.251 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+20:56:46.253 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (14).pdf"' | 
+20:56:46.586 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+20:56:46.586 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+20:56:46.584 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl exists, delete it' | 
+20:56:46.587 | Info | 'After push' | 
+20:56:46.588 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+20:56:46.589 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (12).pdf"' | 
+20:56:46.587 | Info | '---- in the convert pcl queue ---' | 
+20:56:46.911 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl exists, delete it' | 
+20:56:46.916 | Info | 'After push' | 
+20:56:46.914 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+20:56:46.915 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+20:56:46.918 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (2).pdf"' | 
+20:56:46.917 | Info | '---- in the convert pcl queue ---' | 
+20:56:47.251 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl exists, delete it' | 
+20:56:47.253 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+20:56:47.257 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+20:56:47.258 | Info | 'After push' | 
+20:56:46.917 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+20:56:47.258 | Info | '---- in the convert pcl queue ---' | 
+20:56:47.260 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (8).pdf"' | 
+20:56:47.259 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+20:56:47.566 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+20:56:47.563 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl exists, delete it' | 
+20:56:47.567 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+20:56:47.567 | Info | 'After push' | 
+20:56:47.568 | Info | '---- in the convert pcl queue ---' | 
+20:56:47.568 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+20:56:47.569 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (7).pdf"' | 
+20:56:47.879 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl exists, delete it' | 
+20:56:47.882 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+20:56:47.881 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+20:56:47.883 | Info | 'After push' | 
+20:56:47.883 | Info | '---- in the convert pcl queue ---' | 
+20:56:47.884 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+20:56:47.884 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (4).pdf"' | 
+20:56:48.215 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl exists, delete it' | 
+20:56:48.219 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+20:56:48.219 | Info | 'After push' | 
+20:56:48.218 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+20:56:48.220 | Info | '---- in the convert pcl queue ---' | 
+20:56:48.220 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+20:56:48.221 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (3).pdf"' | 
+20:56:48.614 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl exists, delete it' | 
+20:56:48.618 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+20:56:48.617 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+20:56:48.619 | Info | 'After push' | 
+20:56:48.620 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+20:56:48.621 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (9).pdf"' | 
+20:56:48.619 | Info | '---- in the convert pcl queue ---' | 
+20:56:49.010 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl exists, delete it' | 
+20:56:49.013 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+20:56:49.014 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+20:56:49.015 | Info | '---- in the convert pcl queue ---' | 
+20:56:49.016 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+20:56:49.016 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (6).pdf"' | 
+20:56:49.352 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl exists, delete it' | 
+20:56:49.355 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+20:56:49.355 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+20:56:49.356 | Info | 'After push' | 
+20:56:49.358 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+20:56:49.358 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (13).pdf"' | 
+20:56:49.015 | Info | 'After push' | 
+20:56:49.357 | Info | '---- in the convert pcl queue ---' | 
+20:56:49.736 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl exists, delete it' | 
+20:56:49.738 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+20:56:49.740 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+20:56:49.740 | Info | 'After push' | 
+20:56:49.741 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:56:49.742 | Info | 'After push' | 
+20:56:49.742 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:56:49.741 | Info | 'After push' | 
+20:58:01.208 | Info | '--- Starting ---' | 
+20:58:01.225 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+20:58:01.227 | Info | 'After push' | 
+20:58:01.231 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+20:58:01.230 | Info | '---- in the convert pcl queue ---' | 
+20:58:01.232 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (10).pdf"' | 
+20:58:01.587 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl exists, delete it' | 
+20:58:01.589 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+20:58:01.591 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:58:01.592 | Info | 'After push' | 
+20:58:01.593 | Info | '---- in the convert pcl queue ---' | 
+20:58:01.594 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (11).pdf"' | 
+20:58:01.594 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:58:02.043 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl exists, delete it' | 
+20:58:02.045 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+20:58:02.047 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:58:02.048 | Info | 'After push' | 
+20:58:02.049 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (5).pdf"' | 
+20:58:02.048 | Info | '---- in the convert pcl queue ---' | 
+20:58:02.049 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:58:02.395 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+20:58:02.393 | Info | 'File: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl exists, delete it' | 
+20:58:47.040 | Info | '--- Starting ---' | 
+20:59:02.337 | Info | '--- Starting ---' | 
+20:59:15.712 | Info | '--- Starting ---' | 
+20:59:44.421 | Info | '--- Starting ---' | 
+20:59:55.472 | Info | '--- Starting ---' | 
+21:00:13.734 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:00:13.739 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:00:13.737 | Info | 'After push' | 
+21:00:13.738 | Info | '---- in the convert pcl queue ---' | 
+21:00:13.740 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (2).pdf"' | 
+21:00:14.092 | Info | ({}) | 
+21:00:14.097 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+21:00:14.099 | Info | 'PCL file exists, safe to try and move' | 
+21:00:14.102 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:00:22.844 | Info | '--- Starting ---' | 
+21:00:35.639 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:00:35.634 | Info | 'After push' | 
+21:00:35.637 | Info | '---- in the convert pcl queue ---' | 
+21:00:35.630 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:00:35.640 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (2).pdf"' | 
+21:00:35.992 | Info | 'PCL file exists, safe to try and move' | 
+21:00:35.991 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" because of success' | 
+21:00:36.005 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:01:04.270 | Info | '--- Starting ---' | 
+21:01:22.890 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:01:22.894 | Info | 'After push' | 
+21:01:22.897 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:01:22.896 | Info | '---- in the convert pcl queue ---' | 
+21:01:22.898 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (2).pdf"' | 
+21:02:19.927 | Info | '--- Starting ---' | 
+21:02:19.964 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:02:19.969 | Info | '---- in the convert pcl queue ---' | 
+21:02:19.970 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl' | 
+21:02:19.966 | Info | 'After push' | 
+21:02:19.971 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (2).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (2).pdf"' | 
+21:04:45.438 | Info | '---- in the convert pcl queue ---' | 
+21:04:45.435 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+21:04:45.441 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp.pcl" "c:\\v1home\\pcl_pdfs\\supp.pdf"' | 
+21:04:45.437 | Info | 'After push' | 
+21:04:45.440 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp.pcl' | 
+21:05:20.087 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy.pcl' | 
+21:05:20.090 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy.pcl' | 
+21:05:20.089 | Info | '---- in the convert pcl queue ---' | 
+21:05:20.088 | Info | 'After push' | 
+21:05:20.091 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy.pdf"' | 
+21:06:28.875 | Info | 'Found file: C:\\v1home\\pcl_pickup\\suppCopy.pcl' | 
+21:06:28.876 | Info | 'After push' | 
+21:06:28.880 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\suppCopy.pcl' | 
+21:06:28.881 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\suppCopy.pcl" "c:\\v1home\\pcl_pdfs\\suppCopy.pdf"' | 
+21:06:28.878 | Info | '---- in the convert pcl queue ---' | 
+21:07:02.591 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp Copy.pcl' | 
+21:07:02.593 | Info | '---- in the convert pcl queue ---' | 
+21:07:02.592 | Info | 'After push' | 
+21:07:02.595 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp Copy.pcl' | 
+21:07:02.599 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp Copy.pcl" "c:\\v1home\\pcl_pdfs\\supp Copy.pdf"' | 
+21:18:26.507 | Info | '--- Starting ---' | 
+21:18:26.530 | Info | 'After push' | 
+21:18:26.527 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp Copy.pcl' | 
+21:18:26.533 | Info | '---- in the convert pcl queue ---' | 
+21:18:26.534 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp Copy.pcl' | 
+21:18:26.541 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp Copy.pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+21:18:26.536 | Info | ({}) | 
+21:18:26.545 | Info | 'PCL file exists, safe to try and move' | 
+21:18:26.535 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp Copy.pcl" "c:\\v1home\\pcl_pdfs\\supp Copy.pdf"' | 
+21:18:26.548 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp Copy.pcl' | 
+21:18:44.392 | Info | '--- Starting ---' | 
+21:19:01.680 | Info | '--- Starting ---' | 
+21:19:15.386 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:19:15.388 | Info | 'After push' | 
+21:19:15.389 | Info | '---- in the convert pcl queue ---' | 
+21:19:15.389 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:19:15.390 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:19:15.397 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+21:19:15.391 | Info | ({}) | 
+21:19:15.398 | Info | 'PCL file exists, safe to try and move' | 
+21:19:15.400 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:19:29.421 | Info | '--- Starting ---' | 
+21:19:38.425 | Info | '---- in the convert pcl queue ---' | 
+21:19:38.418 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:19:38.422 | Info | 'After push' | 
+21:19:38.429 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:19:38.427 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:20:13.494 | Info | '--- Starting ---' | 
+21:20:13.513 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:20:13.517 | Info | '---- in the convert pcl queue ---' | 
+21:20:13.515 | Info | 'After push' | 
+21:20:13.518 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:20:13.517 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:23:53.338 | Info | '--- Starting ---' | 
+21:23:53.355 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:23:53.359 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:23:53.357 | Info | 'After push' | 
+21:23:53.358 | Info | '---- in the convert pcl queue ---' | 
+21:23:53.360 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:33:59.256 | Info | '--- Starting ---' | 
+21:33:59.282 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:33:59.283 | Info | ({}) | 
+21:35:58.163 | Info | '--- Starting ---' | 
+21:35:58.179 | Info | ({}) | 
+21:35:58.178 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:36:14.381 | Info | '--- Starting ---' | 
+21:36:14.405 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:36:14.405 | Info | ({}) | 
+21:37:02.369 | Info | '--- Starting ---' | 
+21:37:02.387 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:37:02.391 | Info | 'After push' | 
+21:37:02.392 | Info | '---- in the convert pcl queue ---' | 
+21:37:02.393 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:37:02.394 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:38:35.307 | Info | '--- Starting ---' | 
+21:38:35.320 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:38:35.323 | Info | '---- in the convert pcl queue ---' | 
+21:38:35.322 | Info | 'After push' | 
+21:38:35.324 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:38:35.323 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:39:17.709 | Info | '--- Starting ---' | 
+21:39:17.751 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:39:17.749 | Info | '---- in the convert pcl queue ---' | 
+21:39:17.738 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:39:17.740 | Info | 'After push' | 
+21:39:17.768 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:39:40.955 | Info | '--- Starting ---' | 
+21:39:40.990 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:39:40.997 | Info | 'After push' | 
+21:39:41.001 | Info | '---- in the convert pcl queue ---' | 
+21:39:41.004 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy 2.pdf"' | 
+21:39:41.003 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy 2.pcl' | 
+21:39:43.367 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy2.pcl' | 
+21:39:43.394 | Info | 'After push' | 
+21:39:43.395 | Info | '---- in the convert pcl queue ---' | 
+21:39:43.396 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy2.pcl' | 
+21:39:43.397 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy2.pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy2.pdf"' | 
+21:40:04.999 | Info | '--- Starting ---' | 
+21:40:05.022 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy2.pcl' | 
+21:40:05.031 | Info | '---- in the convert pcl queue ---' | 
+21:40:05.032 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy2.pcl' | 
+21:40:05.032 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy2.pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy2.pdf"' | 
+21:40:05.030 | Info | 'After push' | 
+21:40:54.269 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+21:40:54.277 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+21:40:54.275 | Info | '---- in the convert pcl queue ---' | 
+21:40:54.273 | Info | 'After push' | 
+21:40:54.278 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl" "c:\\v1home\\pcl_pdfs\\supp - Copy (14).pdf"' | 
+21:40:56.653 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:40:56.666 | Info | 'After push' | 
+21:40:56.668 | Info | '---- in the convert pcl queue ---' | 
+21:40:56.671 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(14).pdf"' | 
+21:40:56.670 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:41:31.391 | Info | '--- Starting ---' | 
+21:41:31.413 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:41:49.823 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+21:41:51.855 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:44:32.615 | Info | '--- Starting ---' | 
+21:44:32.635 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:44:32.637 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:45:00.774 | Info | '--- Starting ---' | 
+21:45:00.799 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:45:00.801 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:46:03.172 | Info | '--- Starting ---' | 
+21:46:03.190 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:46:03.196 | Info | 'After push' | 
+21:46:03.200 | Info | '---- in the convert pcl queue ---' | 
+21:46:03.202 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:46:03.202 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(9).pdf"' | 
+21:46:46.722 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+21:46:46.726 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:46:48.805 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:46:48.804 | Info | '---- in the convert pcl queue ---' | 
+21:46:48.803 | Info | 'After push' | 
+21:46:48.802 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:46:48.806 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(6).pdf"' | 
+21:47:04.862 | Info | '--- Starting ---' | 
+21:47:04.882 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:47:04.888 | Info | '---- in the convert pcl queue ---' | 
+21:47:04.886 | Info | 'After push' | 
+21:47:04.888 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:47:04.889 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(6).pdf"' | 
+21:47:06.625 | Info | 'PCL file exists, safe to try and move' | 
+21:47:06.624 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" because of success' | 
+21:47:06.631 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:47:30.187 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl' | 
+21:47:30.179 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+21:47:30.182 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:47:30.189 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:47:30.279 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+21:47:30.292 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:47:30.282 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:47:30.287 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+21:47:30.297 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+21:47:30.309 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+21:47:30.301 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+21:47:30.312 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:47:30.317 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+21:47:30.335 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+21:47:30.325 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:47:30.340 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:47:30.343 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+21:47:30.344 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:47:30.376 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+21:47:30.375 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+21:47:30.428 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+21:47:30.430 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+21:47:30.433 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+21:47:30.435 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:47:30.502 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+21:47:30.505 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+21:47:30.523 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl' | 
+21:47:30.525 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:47:30.569 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+21:47:30.567 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+21:47:30.581 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+21:47:30.582 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:47:32.249 | Info | 'After push' | 
+21:47:32.247 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:47:32.251 | Info | '---- in the convert pcl queue ---' | 
+21:47:32.252 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:47:32.253 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(3).pdf"' | 
+21:47:33.755 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" because of success' | 
+21:47:33.756 | Info | 'PCL file exists, safe to try and move' | 
+21:47:33.761 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:47:33.762 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:47:33.764 | Info | '---- in the convert pcl queue ---' | 
+21:47:33.763 | Info | 'After push' | 
+21:47:33.765 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(18).pdf"' | 
+21:47:33.764 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:47:35.319 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" because of success' | 
+21:47:35.320 | Info | 'PCL file exists, safe to try and move' | 
+21:47:35.329 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:47:35.331 | Info | 'After push' | 
+21:47:35.330 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:47:35.331 | Info | '---- in the convert pcl queue ---' | 
+21:47:35.333 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(14).pdf"' | 
+21:47:35.332 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:47:36.833 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" because of success' | 
+21:47:36.833 | Info | 'PCL file exists, safe to try and move' | 
+21:47:36.842 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:47:36.842 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+21:47:36.844 | Info | '---- in the convert pcl queue ---' | 
+21:47:36.843 | Info | 'After push' | 
+21:47:36.844 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+21:47:36.845 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(11).pdf"' | 
+21:47:38.423 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" because of success' | 
+21:47:38.423 | Info | 'PCL file exists, safe to try and move' | 
+21:47:38.429 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+21:47:38.430 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:47:38.431 | Info | 'After push' | 
+21:47:38.432 | Info | '---- in the convert pcl queue ---' | 
+21:47:38.432 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:47:38.433 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(8).pdf"' | 
+21:47:39.959 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" because of success' | 
+21:47:39.959 | Info | 'PCL file exists, safe to try and move' | 
+21:47:39.968 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:47:39.969 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+21:47:39.971 | Info | '---- in the convert pcl queue ---' | 
+21:47:39.970 | Info | 'After push' | 
+21:47:39.972 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(16).pdf"' | 
+21:47:39.971 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+21:47:41.480 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" because of success' | 
+21:47:41.481 | Info | 'PCL file exists, safe to try and move' | 
+21:47:41.490 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+21:47:41.490 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:47:41.492 | Info | '---- in the convert pcl queue ---' | 
+21:47:41.491 | Info | 'After push' | 
+21:47:41.492 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:47:41.493 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(7).pdf"' | 
+21:47:43.005 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" because of success' | 
+21:47:43.006 | Info | 'PCL file exists, safe to try and move' | 
+21:47:43.012 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:47:43.013 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:47:43.014 | Info | 'After push' | 
+21:47:43.015 | Info | '---- in the convert pcl queue ---' | 
+21:47:43.016 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(9).pdf"' | 
+21:47:43.015 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:47:44.571 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" because of success' | 
+21:47:44.571 | Info | 'PCL file exists, safe to try and move' | 
+21:47:44.580 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+21:47:44.581 | Info | 'After push' | 
+21:47:44.579 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:47:44.581 | Info | '---- in the convert pcl queue ---' | 
+21:47:44.582 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(13).pdf"' | 
+21:47:44.582 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+21:47:46.383 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" because of success' | 
+21:47:46.383 | Info | 'PCL file exists, safe to try and move' | 
+21:47:46.392 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+21:47:46.394 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:47:46.392 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+21:47:46.393 | Info | 'After push' | 
+21:47:46.395 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:47:46.395 | Info | 'After push' | 
+21:47:46.396 | Info | 'After push' | 
+21:47:46.397 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:47:46.398 | Info | 'After push' | 
+21:47:46.398 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:47:46.399 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+21:47:46.399 | Info | 'After push' | 
+21:47:46.400 | Info | 'After push' | 
+21:47:46.400 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:47:46.401 | Info | 'After push' | 
+21:49:53.725 | Info | '--- Starting ---' | 
+21:49:53.751 | Info | 'After push' | 
+21:49:53.749 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:49:53.752 | Info | '---- in the convert pcl queue ---' | 
+21:49:53.753 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:49:53.756 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(10).pdf"' | 
+21:49:55.351 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" because of success' | 
+21:49:55.352 | Info | 'PCL file exists, safe to try and move' | 
+21:49:55.361 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:49:55.364 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+21:49:55.365 | Info | '---- in the convert pcl queue ---' | 
+21:49:55.365 | Info | 'After push' | 
+21:49:55.366 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+21:49:55.366 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(12).pdf"' | 
+21:49:56.938 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" because of success' | 
+21:49:56.939 | Info | 'PCL file exists, safe to try and move' | 
+21:49:56.947 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:49:56.946 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+21:49:56.948 | Info | '---- in the convert pcl queue ---' | 
+21:49:56.948 | Info | 'After push' | 
+21:49:56.949 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:49:56.949 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(15).pdf"' | 
+21:49:58.575 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" because of success' | 
+21:49:58.576 | Info | 'PCL file exists, safe to try and move' | 
+21:49:58.585 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:49:58.588 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:49:58.589 | Info | 'After push' | 
+21:49:58.589 | Info | '---- in the convert pcl queue ---' | 
+21:49:58.591 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(17).pdf"' | 
+21:49:58.590 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:50:00.093 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" because of success' | 
+21:50:00.094 | Info | 'PCL file exists, safe to try and move' | 
+21:50:00.102 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:50:00.105 | Info | 'After push' | 
+21:50:00.104 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+21:50:00.106 | Info | '---- in the convert pcl queue ---' | 
+21:50:00.107 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+21:50:00.107 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(4).pdf"' | 
+21:50:01.652 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" because of success' | 
+21:50:01.653 | Info | 'PCL file exists, safe to try and move' | 
+21:50:01.662 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+21:50:01.666 | Info | '---- in the convert pcl queue ---' | 
+21:50:01.665 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:50:01.665 | Info | 'After push' | 
+21:50:01.666 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:50:01.667 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(5).pdf"' | 
+21:50:03.275 | Info | 'PCL file exists, safe to try and move' | 
+21:50:03.274 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" because of success' | 
+21:50:03.283 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:50:03.286 | Info | '---- in the convert pcl queue ---' | 
+21:50:03.286 | Info | 'After push' | 
+21:50:03.287 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:50:03.285 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:50:03.287 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(6).pdf"' | 
+21:50:04.839 | Info | 'PCL file exists, safe to try and move' | 
+21:50:04.839 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" because of success' | 
+21:50:04.849 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:52:14.597 | Info | '--- Starting ---' | 
+21:52:27.197 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:52:27.195 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+21:52:29.260 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:52:29.266 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:52:29.265 | Info | '---- in the convert pcl queue ---' | 
+21:52:29.261 | Info | 'After push' | 
+21:52:29.267 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(7).pdf"' | 
+21:52:30.778 | Info | 'PCL file exists, safe to try and move' | 
+21:52:30.777 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" because of success' | 
+21:52:30.784 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:53:37.051 | Info | '--- Starting ---' | 
+21:54:10.033 | Info | '--- Starting ---' | 
+21:54:20.982 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+21:54:20.984 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:54:23.014 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:54:23.018 | Info | 'After push' | 
+21:54:23.020 | Info | '---- in the convert pcl queue ---' | 
+21:54:23.021 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:54:23.022 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(5).pdf"' | 
+21:54:24.496 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" because of success' | 
+21:54:24.495 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:54:24.497 | Info | 'PCL file exists, safe to try and move' | 
+21:54:24.506 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:55:49.532 | Info | '--- Starting ---' | 
+21:55:57.770 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+21:55:57.772 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:55:59.895 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl to the convert queue' | 
+21:55:59.893 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:55:59.900 | Info | '---- in the convert pcl queue ---' | 
+21:55:59.905 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(5).pdf"' | 
+21:55:59.902 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:56:01.417 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" because of success' | 
+21:56:01.418 | Info | 'PCL file exists, safe to try and move' | 
+21:56:01.416 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:56:01.423 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:56:14.794 | Info | '--- Starting ---' | 
+21:56:31.414 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:56:31.413 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+21:56:31.418 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl' | 
+21:56:31.419 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:56:31.443 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+21:56:31.444 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:56:31.458 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+21:56:31.459 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+21:56:31.461 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+21:56:31.462 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:56:31.518 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:56:31.516 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+21:56:31.523 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+21:56:31.525 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:56:31.563 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+21:56:31.561 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+21:56:31.567 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+21:56:31.569 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:56:31.573 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+21:56:31.574 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:56:31.622 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+21:56:31.623 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+21:56:31.626 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+21:56:31.625 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+21:56:31.669 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:56:31.668 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+21:56:31.678 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl' | 
+21:56:31.679 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:56:31.736 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+21:56:31.726 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+21:56:31.728 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+21:56:31.737 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:56:33.487 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:56:33.488 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl to the convert queue' | 
+21:56:33.495 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(3).pdf"' | 
+21:56:33.493 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:56:35.009 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" because of success' | 
+21:56:35.010 | Info | 'PCL file exists, safe to try and move' | 
+21:56:35.008 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:56:35.016 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:56:35.015 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+21:56:35.017 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl to the convert queue' | 
+21:56:35.017 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:56:35.018 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(8).pdf"' | 
+21:56:36.595 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" because of success' | 
+21:56:36.596 | Info | 'PCL file exists, safe to try and move' | 
+21:56:36.594 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:56:36.605 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+21:56:36.606 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:56:36.607 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl to the convert queue' | 
+21:56:36.608 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:56:36.608 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(7).pdf"' | 
+21:56:38.161 | Info | 'PCL file exists, safe to try and move' | 
+21:56:38.160 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" because of success' | 
+21:56:38.159 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:56:38.168 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+21:56:38.170 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl to the convert queue' | 
+21:56:38.169 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:56:38.170 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:56:38.171 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(17).pdf"' | 
+21:56:39.778 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" because of success' | 
+21:56:39.777 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:56:39.779 | Info | 'PCL file exists, safe to try and move' | 
+21:56:39.788 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:56:39.787 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+21:56:39.790 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:56:39.789 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl to the convert queue' | 
+21:56:39.790 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(14).pdf"' | 
+21:56:41.436 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:56:41.437 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" because of success' | 
+21:56:41.438 | Info | 'PCL file exists, safe to try and move' | 
+21:56:41.448 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+21:56:41.450 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl to the convert queue' | 
+21:56:41.449 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:56:41.451 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:56:41.451 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(18).pdf"' | 
+21:56:42.987 | Info | 'PCL file exists, safe to try and move' | 
+21:56:42.986 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" because of success' | 
+21:56:42.986 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:56:42.992 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+21:56:42.994 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl to the convert queue' | 
+21:56:42.994 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:56:42.995 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:56:42.995 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(6).pdf"' | 
+21:56:44.522 | Info | 'PCL file exists, safe to try and move' | 
+21:56:44.520 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:56:44.521 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" because of success' | 
+21:56:44.529 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+21:56:44.534 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:56:44.533 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to the convert queue' | 
+21:56:44.532 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:56:44.536 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(9).pdf"' | 
+21:56:46.158 | Info | 'PCL file exists, safe to try and move' | 
+21:56:46.157 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" because of success' | 
+21:56:46.155 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:56:46.168 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl to the convert queue' | 
+21:56:46.167 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+21:56:46.168 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:56:46.169 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(10).pdf"' | 
+21:56:47.701 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" because of success' | 
+21:56:46.169 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:56:47.702 | Info | 'PCL file exists, safe to try and move' | 
+21:56:47.700 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:56:47.707 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+21:56:47.708 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl to the convert queue' | 
+21:56:47.708 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:56:47.709 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:56:47.710 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(15).pdf"' | 
+21:56:49.245 | Info | 'PCL file exists, safe to try and move' | 
+21:56:49.244 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" because of success' | 
+21:56:49.243 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:56:49.254 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+21:56:49.253 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+21:56:49.254 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl to the convert queue' | 
+21:56:49.255 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+21:56:49.256 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+21:56:49.256 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl to the convert queue' | 
+21:56:49.255 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl to the convert queue' | 
+21:56:49.257 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+21:56:49.258 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl to the convert queue' | 
+21:56:49.257 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl to the convert queue' | 
+21:56:49.258 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+21:56:49.259 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+21:56:49.259 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl to the convert queue' | 
+22:02:37.572 | Info | '--- Starting ---' | 
+22:02:37.594 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl to the convert queue' | 
+22:02:37.592 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:02:37.597 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(11).pdf"' | 
+22:02:37.596 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:02:39.108 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:02:39.109 | Info | 'PCL file exists, safe to try and move' | 
+22:02:39.108 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" because of success' | 
+22:02:39.118 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:02:39.121 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl to the convert queue' | 
+22:02:39.120 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:02:39.122 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:02:39.122 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(12).pdf"' | 
+22:02:40.593 | Info | 'PCL file exists, safe to try and move' | 
+22:02:40.591 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:02:40.592 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" because of success' | 
+22:02:40.602 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:02:40.604 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl to the convert queue' | 
+22:02:40.604 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:02:40.603 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:02:40.605 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(13).pdf"' | 
+22:02:42.152 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" because of success' | 
+22:02:42.153 | Info | 'PCL file exists, safe to try and move' | 
+22:02:42.151 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:02:42.161 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:02:42.166 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:02:42.164 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:02:42.165 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl to the convert queue' | 
+22:02:42.166 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(16).pdf"' | 
+22:02:43.664 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:02:43.666 | Info | 'PCL file exists, safe to try and move' | 
+22:02:43.665 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" because of success' | 
+22:02:43.673 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:02:43.676 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl to the convert queue' | 
+22:02:43.676 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:02:43.675 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:02:43.677 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(5).pdf"' | 
+22:02:45.271 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:02:45.272 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" because of success' | 
+22:02:45.273 | Info | 'PCL file exists, safe to try and move' | 
+22:02:45.278 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:02:45.281 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl to the convert queue' | 
+22:02:45.280 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:02:45.281 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:02:45.282 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(4).pdf"' | 
+22:02:46.827 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" because of success' | 
+22:02:46.826 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:02:46.827 | Info | 'PCL file exists, safe to try and move' | 
+22:02:46.835 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:04:53.428 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl' | 
+22:04:53.432 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:04:53.429 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:04:53.431 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+22:04:53.509 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:04:53.508 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+22:04:53.538 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+22:04:53.539 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:04:53.543 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+22:04:53.544 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:04:53.552 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:04:53.548 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+22:04:53.555 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+22:04:53.556 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:04:53.558 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:04:53.558 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+22:04:53.624 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:04:53.624 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+22:04:53.663 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:04:53.660 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+22:04:53.661 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:04:53.662 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+22:04:53.666 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+22:04:53.669 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:04:53.747 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+22:04:53.748 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:04:53.773 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+22:04:53.774 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:04:53.779 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:04:53.778 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl' | 
+22:04:53.856 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:04:53.855 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+22:04:55.543 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:04:55.544 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl to the convert queue' | 
+22:04:55.546 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:04:55.547 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(18).pdf"' | 
+22:04:57.053 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:04:57.054 | Info | 'PCL file exists, safe to try and move' | 
+22:04:57.054 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" because of success' | 
+22:04:57.062 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:04:57.062 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:04:57.064 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:04:57.063 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl to the convert queue' | 
+22:04:57.064 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(11).pdf"' | 
+22:04:58.549 | Info | 'PCL file exists, safe to try and move' | 
+22:04:58.547 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:04:58.548 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" because of success' | 
+22:04:58.557 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:04:58.558 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:04:58.559 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl to the convert queue' | 
+22:04:58.559 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:04:58.560 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(13).pdf"' | 
+22:05:00.087 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:05:00.088 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" because of success' | 
+22:05:00.089 | Info | 'PCL file exists, safe to try and move' | 
+22:05:00.096 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:05:00.096 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:05:00.097 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl to the convert queue' | 
+22:05:00.098 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:05:00.098 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(7).pdf"' | 
+22:05:01.544 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:05:01.545 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" because of success' | 
+22:05:01.546 | Info | 'PCL file exists, safe to try and move' | 
+22:05:01.554 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:05:01.556 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to the convert queue' | 
+22:05:01.555 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:05:01.556 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:05:01.557 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl to the convert queue' | 
+22:05:01.557 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:05:01.559 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:05:01.558 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl to the convert queue' | 
+22:05:01.559 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl to the convert queue' | 
+22:05:01.560 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:05:01.561 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:05:01.561 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl to the convert queue' | 
+22:05:01.562 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl to the convert queue' | 
+22:05:01.562 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:05:01.563 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:05:01.563 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl to the convert queue' | 
+22:05:01.564 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl to the convert queue' | 
+22:05:01.565 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl to the convert queue' | 
+22:05:01.565 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:05:01.567 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:05:01.568 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:05:01.568 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl to the convert queue' | 
+22:05:01.569 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl to the convert queue' | 
+22:05:01.569 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:05:01.570 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl to the convert queue' | 
+22:08:18.237 | Info | '--- Starting ---' | 
+22:08:18.264 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl to the convert queue' | 
+22:08:18.263 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:08:18.269 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(10).pdf"' | 
+22:08:18.266 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:08:19.903 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:08:19.904 | Info | ({}) | 
+22:08:19.908 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:19.909 | Info | 'PCL file exists, safe to try and move' | 
+22:08:19.912 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:08:19.916 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:08:19.917 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl to the convert queue' | 
+22:08:19.918 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:08:19.919 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(12).pdf"' | 
+22:08:21.433 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:08:21.434 | Info | ({}) | 
+22:08:21.436 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:21.437 | Info | 'PCL file exists, safe to try and move' | 
+22:08:21.440 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:08:21.445 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl to the convert queue' | 
+22:08:21.444 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:08:21.446 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:08:21.446 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(14).pdf"' | 
+22:08:23.174 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:08:23.175 | Info | ({}) | 
+22:08:23.177 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:23.178 | Info | 'PCL file exists, safe to try and move' | 
+22:08:23.181 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:08:23.185 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:08:23.186 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:08:23.186 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl to the convert queue' | 
+22:08:23.187 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(15).pdf"' | 
+22:08:24.985 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:08:24.986 | Info | ({}) | 
+22:08:24.989 | Info | 'PCL file exists, safe to try and move' | 
+22:08:24.988 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:24.992 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:08:24.996 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:08:24.998 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:08:24.997 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl to the convert queue' | 
+22:08:24.999 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(16).pdf"' | 
+22:08:26.618 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:08:26.622 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:26.622 | Info | 'PCL file exists, safe to try and move' | 
+22:08:26.620 | Info | ({}) | 
+22:08:26.625 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:08:26.628 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl to the convert queue' | 
+22:08:26.628 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:08:26.627 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:08:26.629 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(17).pdf"' | 
+22:08:28.257 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:08:28.257 | Info | ({}) | 
+22:08:28.259 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:28.260 | Info | 'PCL file exists, safe to try and move' | 
+22:08:28.263 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:08:28.265 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:08:28.265 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl to the convert queue' | 
+22:08:28.266 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:08:28.266 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(3).pdf"' | 
+22:08:30.064 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:08:30.066 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:30.067 | Info | 'PCL file exists, safe to try and move' | 
+22:08:30.065 | Info | ({}) | 
+22:08:30.070 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:08:30.072 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:08:30.073 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl to the convert queue' | 
+22:08:30.073 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:08:30.074 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(4).pdf"' | 
+22:08:31.623 | Info | 'PCL file exists, safe to try and move' | 
+22:08:31.621 | Info | ({}) | 
+22:08:31.620 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:08:31.622 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:31.632 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:08:31.626 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:08:31.630 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:08:31.631 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl to the convert queue' | 
+22:08:31.632 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(5).pdf"' | 
+22:08:33.348 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:08:33.350 | Info | ({}) | 
+22:08:33.351 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:33.352 | Info | 'PCL file exists, safe to try and move' | 
+22:08:33.355 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:08:33.358 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:08:33.359 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:08:33.358 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl to the convert queue' | 
+22:08:33.359 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(6).pdf"' | 
+22:08:34.946 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:08:34.947 | Info | ({}) | 
+22:08:34.950 | Info | 'PCL file exists, safe to try and move' | 
+22:08:34.949 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:34.953 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:08:34.958 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl to the convert queue' | 
+22:08:34.957 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:08:34.959 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:08:34.960 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to the convert queue' | 
+22:08:52.008 | Info | '--- Starting ---' | 
+22:08:52.021 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:08:52.021 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl to the convert queue' | 
+22:08:52.023 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:08:52.023 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(8).pdf"' | 
+22:08:53.570 | Info | ({}) | 
+22:08:53.569 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:08:53.574 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:53.575 | Info | 'PCL file exists, safe to try and move' | 
+22:08:53.578 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:08:53.583 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:08:53.584 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to the convert queue' | 
+22:08:53.585 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:08:53.586 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(9).pdf"' | 
+22:08:55.205 | Info | ({}) | 
+22:08:55.204 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:08:55.206 | Info | 'Moving this file: "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" to Failed Directory: "c:\\v1home\\failed_conversion"' | 
+22:08:55.207 | Info | 'PCL file exists, safe to try and move' | 
+22:08:55.210 | Info | 'Successfully moved file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:09:47.026 | Info | '--- Starting ---' | 
+22:10:21.745 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+22:10:21.747 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:10:23.866 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:10:23.862 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl to the convert queue' | 
+22:10:23.860 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:10:23.867 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(3).pdf"' | 
+22:10:25.376 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" because of success' | 
+22:10:25.375 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:10:25.376 | Info | 'PCL file exists, safe to try and move' | 
+22:10:25.386 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:10:56.565 | Info | '--- Starting ---' | 
+22:11:02.467 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:11:02.465 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (18).pcl' | 
+22:11:02.532 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl' | 
+22:11:02.534 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (5).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:11:02.579 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:11:02.577 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (7).pcl' | 
+22:11:02.583 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl' | 
+22:11:02.585 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (4).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:11:02.592 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl' | 
+22:11:02.594 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (3).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:11:02.599 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:11:02.598 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (6).pcl' | 
+22:11:02.602 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl' | 
+22:11:02.603 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (8).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:11:02.649 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:11:02.647 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:11:02.646 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (10).pcl' | 
+22:11:02.649 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (9).pcl' | 
+22:11:02.695 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl' | 
+22:11:02.695 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (11).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:11:02.698 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl' | 
+22:11:02.699 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (12).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:11:02.713 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:11:02.713 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (13).pcl' | 
+22:11:02.748 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl' | 
+22:11:02.749 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (15).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:11:02.751 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:11:02.751 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (14).pcl' | 
+22:11:02.809 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl' | 
+22:11:02.810 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (17).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:11:02.812 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl' | 
+22:11:02.813 | Info | 'File has spaces. Rename from C:\\v1home\\pcl_pickup\\supp - Copy (16).pcl to C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:11:04.568 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:11:04.570 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl to the convert queue' | 
+22:11:04.576 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:11:04.578 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(18).pdf"' | 
+22:11:06.038 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl" because of success' | 
+22:11:06.037 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:11:06.038 | Info | 'PCL file exists, safe to try and move' | 
+22:11:06.045 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(18).pcl' | 
+22:11:06.047 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:11:06.046 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:11:06.046 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl to the convert queue' | 
+22:11:07.600 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:11:07.601 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" because of success' | 
+22:11:07.605 | Info | 'PCL file exists, safe to try and move' | 
+22:11:06.048 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(17).pdf"' | 
+22:11:07.614 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(17).pcl' | 
+22:11:07.615 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:11:07.616 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl to the convert queue' | 
+22:11:07.616 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:11:07.617 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(7).pdf"' | 
+22:11:09.143 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:11:09.145 | Info | 'PCL file exists, safe to try and move' | 
+22:11:09.144 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl" because of success' | 
+22:11:09.152 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(7).pcl' | 
+22:11:09.154 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl to the convert queue' | 
+22:11:09.153 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:11:09.155 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:11:09.157 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(6).pdf"' | 
+22:11:10.989 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:11:10.990 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl" because of success' | 
+22:11:10.992 | Info | 'PCL file exists, safe to try and move' | 
+22:11:11.008 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:11:11.006 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(6).pcl' | 
+22:11:11.009 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl to the convert queue' | 
+22:11:11.011 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:11:11.013 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(8).pdf"' | 
+22:11:12.592 | Info | 'PCL file exists, safe to try and move' | 
+22:11:12.590 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl" because of success' | 
+22:11:12.589 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:11:12.607 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:11:12.605 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(8).pcl' | 
+22:11:12.609 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl to the convert queue' | 
+22:11:12.611 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:11:12.613 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(15).pdf"' | 
+22:11:14.347 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:11:14.349 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl" because of success' | 
+22:11:14.350 | Info | 'PCL file exists, safe to try and move' | 
+22:11:14.367 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:11:14.365 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(15).pcl' | 
+22:11:14.368 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl to the convert queue' | 
+22:11:14.369 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:11:14.369 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(10).pdf"' | 
+22:11:15.913 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:11:15.914 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl" because of success' | 
+22:11:15.930 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(10).pcl' | 
+22:11:15.916 | Info | 'PCL file exists, safe to try and move' | 
+22:11:15.932 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:11:15.935 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:11:15.933 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl to the convert queue' | 
+22:11:15.935 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(4).pdf"' | 
+22:11:17.614 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl" because of success' | 
+22:11:17.613 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:11:17.615 | Info | 'PCL file exists, safe to try and move' | 
+22:11:17.634 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:11:17.630 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(4).pcl' | 
+22:11:17.633 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl to the convert queue' | 
+22:11:17.635 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(14).pdf"' | 
+22:11:17.631 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:11:19.431 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:11:19.434 | Info | 'PCL file exists, safe to try and move' | 
+22:11:19.433 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl" because of success' | 
+22:11:19.448 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(14).pcl' | 
+22:11:19.450 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:11:19.453 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:11:19.452 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl to the convert queue' | 
+22:11:21.286 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:11:19.454 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(5).pdf"' | 
+22:11:21.288 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl" because of success' | 
+22:11:21.289 | Info | 'PCL file exists, safe to try and move' | 
+22:11:21.303 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(5).pcl' | 
+22:11:21.305 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to the convert queue' | 
+22:11:21.304 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:11:21.308 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:11:21.309 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl to the convert queue' | 
+22:11:21.313 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl to the convert queue' | 
+22:11:21.312 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:11:21.315 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:11:21.317 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:11:21.317 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl to the convert queue' | 
+22:11:21.316 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl to the convert queue' | 
+22:11:21.318 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:11:21.319 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl to the convert queue' | 
+22:11:49.201 | Info | '--- Starting ---' | 
+22:11:49.216 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:11:49.217 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl to the convert queue' | 
+22:11:49.219 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:11:49.220 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(11).pdf"' | 
+22:11:50.771 | Info | 'PCL file exists, safe to try and move' | 
+22:11:50.769 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:11:50.770 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl" because of success' | 
+22:11:50.777 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(11).pcl' | 
+22:11:50.781 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:11:50.780 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:11:50.781 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl to the convert queue' | 
+22:11:50.782 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(12).pdf"' | 
+22:11:52.602 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:11:52.604 | Info | 'PCL file exists, safe to try and move' | 
+22:11:52.603 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl" because of success' | 
+22:11:52.616 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(12).pcl' | 
+22:11:52.619 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:11:52.620 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl to the convert queue' | 
+22:11:52.624 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:11:52.627 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(13).pdf"' | 
+22:11:54.400 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl" because of success' | 
+22:11:54.399 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:11:54.401 | Info | 'PCL file exists, safe to try and move' | 
+22:11:54.410 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(13).pcl' | 
+22:11:54.412 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:11:54.413 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:11:54.412 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl to the convert queue' | 
+22:11:54.414 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(16).pdf"' | 
+22:11:56.103 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:11:56.104 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl" because of success' | 
+22:11:56.105 | Info | 'PCL file exists, safe to try and move' | 
+22:11:56.120 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(16).pcl' | 
+22:11:56.124 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:11:56.129 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:11:56.126 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl to the convert queue' | 
+22:11:56.130 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(3).pdf"' | 
+22:11:57.979 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:11:57.981 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl" because of success' | 
+22:11:57.983 | Info | 'PCL file exists, safe to try and move' | 
+22:11:57.994 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(3).pcl' | 
+22:11:58.000 | Info | 'Pushing file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl to the convert queue' | 
+22:11:57.999 | Info | 'Found file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:11:58.002 | Info | 'Running dbsvpdf for file: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:11:58.002 | Info | 'DbSVPDF CMD: "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe" "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" "c:\\v1home\\pcl_pdfs\\supp-Copy(9).pdf"' | 
+22:11:59.767 | Info | 'Conversion successful for C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 
+22:11:59.769 | Info | 'Deleting this file: "C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl" because of success' | 
+22:11:59.771 | Info | 'PCL file exists, safe to try and move' | 
+22:11:59.782 | Info | 'Deleted File: C:\\v1home\\pcl_pickup\\supp-Copy(9).pcl' | 

@@ -1,0 +1,9 @@
+{
+  "watchDir": "C:\\v1home\\pcl_pickup",
+  "pdfDir": "c:\\v1home\\pcl_pdfs",
+  "failedPdfDir": "c:\\v1home\\failed_conversion",
+  "dbsvpdfPath": "C:\\V1Home\\utils\\dbsvpdf\\DbSVPDF.exe",
+  "dbsvpdfInstanceNo": 10,
+  "logCommands": true,
+  "deletePcl": true
+}

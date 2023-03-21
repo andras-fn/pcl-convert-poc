@@ -1,0 +1,1054 @@
+10:20:08.801 | Info | '--- Starting ---' | 
+10:21:00.528 | Info | '--- Starting ---' | 
+10:21:02.627 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).PDF" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).PDF"' | 
+10:21:02.624 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).PDF' | 
+10:21:04.179 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).PDF' | 
+10:21:04.208 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).PDF -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).tag' | 
+10:21:04.259 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).PDF" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:21:04.268 | Info | 'Directory exists, no need to create the folder' | 
+10:21:04.266 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1).PDF" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:22:42.727 | Info | '--- Starting ---' | 
+10:22:44.841 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:22:44.844 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf"' | 
+10:22:44.987 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:22:45.008 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:22:45.066 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:22:45.074 | Info | 'Directory exists, no need to create the folder' | 
+10:22:45.074 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:25.187 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf"' | 
+10:23:25.215 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:23:25.219 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf"' | 
+10:23:25.240 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (3) - Copy - Copy.pdf' | 
+10:23:25.242 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (3) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (3) - Copy - Copy.pdf"' | 
+10:23:25.260 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf"' | 
+10:23:25.258 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:23:25.279 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (4) - Copy - Copy.pdf' | 
+10:23:25.280 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (4) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (4) - Copy - Copy.pdf"' | 
+10:23:25.299 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (5) - Copy - Copy.pdf' | 
+10:23:25.303 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (5) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (5) - Copy - Copy.pdf"' | 
+10:23:25.180 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:23:25.326 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (7) - Copy - Copy.pdf' | 
+10:23:25.329 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (7) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (7) - Copy - Copy.pdf"' | 
+10:23:25.356 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.pdf"' | 
+10:23:25.354 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.pdf' | 
+10:23:25.381 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.pdf' | 
+10:23:25.408 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.tag' | 
+10:23:25.426 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.pdf"' | 
+10:23:25.425 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.pdf' | 
+10:23:25.442 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.pdf' | 
+10:23:25.479 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (8) - Copy - Copy.pdf' | 
+10:23:25.462 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.tag' | 
+10:23:25.480 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (8) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (8) - Copy - Copy.pdf"' | 
+10:23:25.494 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (14) - Copy - Copy.pdf' | 
+10:23:25.495 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (14) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (14) - Copy - Copy.pdf"' | 
+10:23:25.516 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (12) - Copy - Copy.pdf' | 
+10:23:25.519 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (12) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (12) - Copy - Copy.pdf"' | 
+10:23:25.538 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (9) - Copy - Copy.pdf' | 
+10:23:25.543 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (9) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (9) - Copy - Copy.pdf"' | 
+10:23:25.559 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf' | 
+10:23:25.572 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf"' | 
+10:23:25.592 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf' | 
+10:23:25.618 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag' | 
+10:23:25.646 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf' | 
+10:23:25.671 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag' | 
+10:23:25.691 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf' | 
+10:23:25.722 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag' | 
+10:23:25.739 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf' | 
+10:23:25.759 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag' | 
+10:23:25.775 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:25.776 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf"' | 
+10:23:25.794 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:25.821 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:25.840 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:25.871 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:25.888 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:25.913 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:25.931 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (6) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:25.954 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (10) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:25.947 | Info | 'Directory exists, no need to create the folder' | 
+10:23:25.946 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:25.963 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:25.964 | Info | 'Directory exists, no need to create the folder' | 
+10:23:25.981 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:26.012 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:26.036 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:26.063 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:26.086 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:26.137 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:26.111 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:26.212 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:26.163 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:26.186 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:26.262 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag' | 
+10:23:26.237 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf' | 
+10:23:26.280 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.292 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.291 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.301 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.313 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.320 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.330 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.331 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.311 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.350 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.370 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.361 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.363 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.382 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.403 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.392 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.406 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.413 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (11) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.422 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.424 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.380 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.436 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.447 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.449 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.457 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.468 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.486 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.474 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.466 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.509 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.489 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.510 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.498 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.535 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.523 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:23:26.538 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.554 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:23:26.556 | Info | 'Directory exists, no need to create the folder' | 
+10:23:26.545 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (13) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:26:58.188 | Info | '--- Starting ---' | 
+10:27:00.366 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:27:00.389 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+10:27:00.390 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+10:27:00.402 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+10:27:00.370 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:27:00.403 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+10:27:00.523 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+10:27:00.545 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+10:27:00.559 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+10:27:00.575 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+10:27:00.588 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+10:27:00.605 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+10:27:00.618 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:27:00.625 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:27:00.625 | Info | 'Directory exists, no need to create the folder' | 
+10:27:00.630 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:27:00.635 | Info | 'Directory exists, no need to create the folder' | 
+10:27:00.634 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:27:00.657 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:27:00.653 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:27:00.658 | Info | 'Directory exists, no need to create the folder' | 
+10:28:17.592 | Info | '--- Starting ---' | 
+10:28:19.728 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:28:19.724 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:28:19.756 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+10:28:19.755 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+10:28:19.919 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+10:28:19.948 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+10:28:19.967 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+10:28:19.989 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+10:28:20.010 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:28:20.017 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:28:20.020 | Info | 'Directory exists, no need to create the folder' | 
+10:28:20.042 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:28:20.050 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:28:20.051 | Info | 'Directory exists, no need to create the folder' | 
+10:29:41.464 | Info | '--- Starting ---' | 
+10:29:43.597 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:29:43.601 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:29:43.798 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:29:43.826 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:29:43.876 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:29:43.887 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:29:43.888 | Info | 'Directory exists, no need to create the folder' | 
+10:30:04.439 | Info | '--- Starting ---' | 
+10:30:43.506 | Info | '--- Starting ---' | 
+10:30:59.159 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:30:59.164 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf"' | 
+10:30:59.203 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:30:59.204 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf"' | 
+10:30:59.217 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:30:59.218 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf"' | 
+10:30:59.340 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:30:59.364 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:30:59.413 | Info | 'Directory exists, no need to create the folder' | 
+10:30:59.404 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:30:59.411 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:30:59.418 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:30:59.433 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:30:59.462 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:30:59.448 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:30:59.478 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:30:59.482 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:30:59.483 | Info | 'Directory exists, no need to create the folder' | 
+10:30:59.506 | Info | 'Directory exists, no need to create the folder' | 
+10:30:59.502 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:30:59.506 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:32:04.093 | Info | '--- Starting ---' | 
+10:32:06.191 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:32:06.196 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:32:06.211 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+10:32:06.212 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+10:32:06.224 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+10:32:06.225 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+10:32:06.339 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+10:32:06.360 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+10:32:06.375 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+10:32:06.393 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+10:32:06.409 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+10:32:06.425 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+10:32:06.437 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:32:06.445 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:32:06.446 | Info | 'Directory exists, no need to create the folder' | 
+10:32:06.449 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:32:06.453 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:32:06.454 | Info | 'Directory exists, no need to create the folder' | 
+10:32:06.470 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:32:06.476 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:32:06.477 | Info | 'Directory exists, no need to create the folder' | 
+10:33:33.931 | Info | '--- Starting ---' | 
+10:33:36.060 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:33:36.067 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:33:36.086 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+10:33:36.091 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+10:33:36.226 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+10:33:36.252 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+10:33:36.265 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+10:33:36.280 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+10:33:36.293 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:33:36.298 | Info | 'Directory exists, no need to create the folder' | 
+10:33:36.297 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:33:36.319 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:33:36.323 | Info | 'Directory exists, no need to create the folder' | 
+10:33:36.323 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:35:38.148 | Info | '--- Starting ---' | 
+10:35:40.263 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:35:40.281 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:35:40.481 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:35:40.506 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:35:40.548 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:35:40.555 | Info | 'Directory exists, no need to create the folder' | 
+10:35:40.554 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:35:50.507 | Info | '--- Starting ---' | 
+10:36:41.468 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:36:41.526 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf"' | 
+10:36:41.485 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf"' | 
+10:36:41.546 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:36:41.515 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:36:41.556 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf"' | 
+10:36:41.657 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:36:41.682 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.tag' | 
+10:36:41.729 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.tag' | 
+10:36:41.708 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:36:41.751 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:36:41.777 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.tag' | 
+10:36:41.797 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:36:41.808 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:36:41.809 | Info | 'Directory exists, no need to create the folder' | 
+10:36:41.818 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:36:41.828 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:36:41.830 | Info | 'Directory exists, no need to create the folder' | 
+10:36:41.866 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:36:41.855 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:36:41.868 | Info | 'Directory exists, no need to create the folder' | 
+10:39:06.033 | Info | '--- Starting ---' | 
+10:39:08.112 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:39:08.125 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf"' | 
+10:39:08.151 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf"' | 
+10:39:08.142 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:39:08.272 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:39:08.291 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.tag' | 
+10:39:08.306 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:39:08.324 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.tag' | 
+10:39:08.339 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:39:08.345 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:39:08.347 | Info | 'Directory exists, no need to create the folder' | 
+10:39:08.372 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:39:08.377 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:39:08.378 | Info | 'Directory exists, no need to create the folder' | 
+10:40:27.295 | Info | '--- Starting ---' | 
+10:40:29.424 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:40:29.446 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf"' | 
+10:40:29.620 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:40:29.597 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:40:29.671 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:40:29.672 | Info | 'Directory exists, no need to create the folder' | 
+10:40:29.665 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:44:47.799 | Info | '--- Starting ---' | 
+10:44:55.917 | Info | '--- Starting ---' | 
+10:45:11.549 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:45:11.568 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:45:11.560 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:46:21.862 | Info | '--- Starting ---' | 
+10:46:23.962 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:46:23.979 | Info | 'Error processing PDF with QPDF: ReferenceError: tempFilePath is not defined' | 
+10:46:23.986 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:46:23.987 | Info | 'Directory exists, no need to create the folder' | 
+10:46:23.991 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:46:24.000 | Info | 'Error processing PDF with QPDF: ReferenceError: tempFilePath is not defined' | 
+10:46:24.005 | Info | 'Directory exists, no need to create the folder' | 
+10:46:24.004 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:46:24.018 | Info | 'Error processing PDF with QPDF: ReferenceError: tempFilePath is not defined' | 
+10:46:24.007 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:46:24.021 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:46:24.022 | Info | 'Directory exists, no need to create the folder' | 
+10:46:58.131 | Info | '--- Starting ---' | 
+10:47:13.180 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf' | 
+10:47:13.214 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy - Copy.pdf"' | 
+10:47:13.241 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf' | 
+10:47:13.257 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (2) - Copy - Copy.pdf"' | 
+10:47:13.277 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:47:13.291 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf"' | 
+10:47:13.382 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:47:13.411 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:47:13.430 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:47:13.456 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:47:13.477 | Info | 'QPDF conversion successful for file: Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf' | 
+10:47:13.501 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf -t c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag' | 
+10:47:13.522 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:47:13.532 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:47:13.533 | Info | 'Directory exists, no need to create the folder' | 
+10:47:13.542 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:47:13.551 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:47:13.552 | Info | 'Directory exists, no need to create the folder' | 
+10:47:13.576 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" -t "c:/v1home/temp/tag/Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:47:13.585 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\Factures Sébastien ROUSSEL - Facture janvier 2022 pour les heures de décembre (1) - Copy.pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:47:13.587 | Info | 'Directory exists, no need to create the folder' | 
+10:48:17.516 | Info | '--- Starting ---' | 
+10:48:41.214 | Info | '--- Starting ---' | 
+10:48:56.627 | Info | '--- Starting ---' | 
+10:49:04.740 | Info | '--- Starting ---' | 
+10:49:53.734 | Info | '--- Starting ---' | 
+10:50:00.379 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+10:50:00.401 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+10:50:00.430 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+10:50:00.419 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+10:50:00.490 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:50:00.479 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:50:00.564 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:50:00.587 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:50:00.600 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:50:00.618 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:50:00.632 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:50:00.636 | Info | 'Directory exists, no need to create the folder' | 
+10:50:00.635 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:50:00.640 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:50:00.658 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:50:00.673 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:50:00.678 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:50:00.680 | Info | 'Directory exists, no need to create the folder' | 
+10:50:00.700 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:50:00.705 | Info | 'Directory exists, no need to create the folder' | 
+10:50:00.704 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:51:37.106 | Info | '--- Starting ---' | 
+10:51:43.807 | Info | '--- Starting ---' | 
+10:51:54.611 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+10:51:54.690 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+10:51:54.671 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+10:51:54.643 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+10:51:54.728 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+10:51:54.711 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+10:51:54.821 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:51:54.858 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:51:54.876 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:51:54.904 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:51:54.924 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+10:51:54.956 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+10:51:54.975 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:51:54.978 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:51:54.980 | Info | 'Directory exists, no need to create the folder' | 
+10:51:54.989 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:51:54.991 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+10:51:54.993 | Info | 'Directory exists, no need to create the folder' | 
+10:51:55.027 | Info | 'Directory exists, no need to create the folder' | 
+10:51:55.022 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+10:51:55.025 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:20:52.636 | Info | '--- Starting ---' | 
+13:20:54.741 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:20:54.760 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:20:54.781 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:20:54.788 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:20:54.984 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:20:55.017 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:20:55.036 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:20:55.063 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:20:55.086 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:20:55.088 | Info | 'Directory exists, no need to create the folder' | 
+13:20:55.085 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:20:55.097 | Info | 'Deleted File: c:/v1home/temp/tag/easy (2).tag' | 
+13:20:55.098 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (2).pdf' | 
+13:20:55.099 | Info | 'Deleted File: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:20:55.136 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:20:55.140 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:20:55.143 | Info | 'Directory exists, no need to create the folder' | 
+13:20:55.147 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:20:55.149 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'C:\\v1home\\pdf_poll\\203\\easy (2).pdf'}) | 
+13:20:55.151 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+13:20:59.275 | Info | '--- Starting ---' | 
+13:21:01.375 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:21:01.404 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:21:01.605 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:21:01.574 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:21:01.661 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:21:01.663 | Info | 'Directory exists, no need to create the folder' | 
+13:21:01.662 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:21:01.665 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+13:21:01.665 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+13:21:08.186 | Info | '--- Starting ---' | 
+13:26:05.098 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:26:05.127 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:26:05.536 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:26:05.474 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:26:05.636 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:26:05.638 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:26:05.640 | Info | 'Directory exists, no need to create the folder' | 
+13:26:05.644 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+13:26:05.645 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+13:26:26.866 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:26:26.894 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:26:26.918 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:26:26.945 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:26:26.970 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:26:26.988 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:26:27.154 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:26:27.184 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:26:27.207 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:26:27.240 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:26:27.264 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:26:27.298 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:26:27.320 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:26:27.326 | Info | 'Directory exists, no need to create the folder' | 
+13:26:27.323 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:26:27.333 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:26:27.335 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:26:27.336 | Info | 'Directory exists, no need to create the folder' | 
+13:26:27.349 | Info | 'Deleted File: c:/v1home/temp/tag/easy (2).tag' | 
+13:26:27.350 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (2).pdf' | 
+13:26:27.352 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:26:27.355 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+13:26:27.373 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:26:27.380 | Info | 'Directory exists, no need to create the folder' | 
+13:26:27.378 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:26:27.386 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+13:26:27.389 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:28:48.196 | Info | '--- Starting ---' | 
+13:28:50.362 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:28:50.399 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:28:50.323 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:28:50.422 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:28:50.654 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:28:50.700 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:28:50.721 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:28:50.753 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:28:50.772 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:28:50.775 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:28:50.778 | Info | 'Directory exists, no need to create the folder' | 
+13:28:50.786 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+13:28:50.787 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+13:28:50.827 | Info | 'Directory exists, no need to create the folder' | 
+13:28:50.825 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:28:50.823 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:28:50.837 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (1).tag'}) | 
+13:28:50.840 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (1).pdf'}) | 
+13:29:11.210 | Info | '--- Starting ---' | 
+13:29:13.313 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:29:13.349 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:29:13.643 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+13:29:13.591 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+13:29:13.744 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:29:13.748 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:29:13.751 | Info | 'Directory exists, no need to create the folder' | 
+13:29:13.758 | Info | 'Deleted File: c:/v1home/temp/tag/easy (3).tag' | 
+13:29:13.760 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (3).pdf' | 
+13:29:25.193 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:29:25.217 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:29:25.244 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:29:25.266 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:29:25.291 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:29:25.331 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:29:25.493 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:29:25.519 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:29:25.533 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:29:25.560 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:29:25.580 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:29:25.609 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:29:25.625 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:29:25.628 | Info | 'Directory exists, no need to create the folder' | 
+13:29:25.627 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:29:25.634 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (2).pdf' | 
+13:29:25.633 | Info | 'Deleted File: c:/v1home/temp/tag/easy (2).tag' | 
+13:29:25.635 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:29:25.636 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:29:25.639 | Info | 'Directory exists, no need to create the folder' | 
+13:29:25.650 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:29:25.654 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+13:29:25.673 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:29:25.674 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:29:25.675 | Info | 'Directory exists, no need to create the folder' | 
+13:29:25.678 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+13:29:25.680 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:32:33.094 | Info | '--- Starting ---' | 
+13:32:35.270 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:32:35.367 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:32:35.342 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:32:35.305 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:32:35.603 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:32:35.640 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:32:35.659 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:32:35.689 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:32:35.710 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:32:35.712 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:32:35.713 | Info | 'Directory exists, no need to create the folder' | 
+13:32:35.719 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+13:32:35.720 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+13:32:35.761 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:32:35.763 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:32:35.765 | Info | 'Directory exists, no need to create the folder' | 
+13:32:35.773 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (1).tag'}) | 
+13:32:35.776 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (1).pdf'}) | 
+13:32:52.615 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:32:52.591 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:32:52.639 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:32:52.663 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:32:52.706 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:32:52.687 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:32:52.969 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:32:52.938 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:32:52.991 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:32:53.031 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:32:53.055 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:32:53.094 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:32:53.118 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:32:53.121 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:32:53.122 | Info | 'Directory exists, no need to create the folder' | 
+13:32:53.130 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+13:32:53.133 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+13:32:53.139 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:32:53.140 | Info | 'Directory exists, no need to create the folder' | 
+13:32:53.136 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:32:53.155 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (1).tag'}) | 
+13:32:53.160 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (1).pdf'}) | 
+13:32:53.180 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:32:53.190 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (1).tag'}) | 
+13:32:53.182 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:32:53.184 | Info | 'Directory exists, no need to create the folder' | 
+13:32:53.194 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (1).pdf'}) | 
+13:34:35.305 | Info | '--- Starting ---' | 
+13:34:37.496 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:34:37.522 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:34:37.563 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:34:37.578 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:35:15.918 | Info | '--- Starting ---' | 
+13:35:18.118 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:35:18.184 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:35:18.137 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:35:18.171 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:35:18.585 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:35:18.495 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:35:18.613 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:35:18.664 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:35:18.689 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:35:18.691 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:35:18.693 | Info | 'Directory exists, no need to create the folder' | 
+13:35:18.701 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (2).pdf' | 
+13:35:18.702 | Info | 'Deleted File: c:/v1home/temp/tag/easy (2).tag' | 
+13:35:18.767 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:35:18.755 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:35:18.769 | Info | 'Directory exists, no need to create the folder' | 
+13:35:18.785 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+13:35:18.790 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:37:36.968 | Info | '--- Starting ---' | 
+13:37:39.090 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:37:39.072 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:37:39.320 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+13:37:39.363 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+13:37:39.431 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:37:39.433 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:37:39.434 | Info | 'Directory exists, no need to create the folder' | 
+13:37:39.437 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (3).pdf' | 
+13:37:39.438 | Info | 'Deleted File: c:/v1home/temp/tag/easy (3).tag' | 
+13:37:52.334 | Info | '--- Starting ---' | 
+13:38:06.834 | Info | '--- Starting ---' | 
+13:38:12.298 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:38:12.324 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:38:12.359 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:38:12.371 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:38:12.397 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:38:12.412 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:38:12.576 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+13:38:12.622 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+13:38:12.641 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+13:38:12.677 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+13:38:12.696 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+13:38:12.730 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+13:38:12.747 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:38:12.751 | Info | 'Directory exists, no need to create the folder' | 
+13:38:12.749 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:38:12.756 | Info | 'Deleted File: c:/v1home/temp/tag/easy (3).tag' | 
+13:38:12.757 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (3).pdf' | 
+13:38:12.759 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:38:12.760 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:38:12.761 | Info | 'Directory exists, no need to create the folder' | 
+13:38:12.770 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (3).tag'}) | 
+13:38:12.773 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (3).pdf'}) | 
+13:38:12.793 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:38:12.795 | Info | 'Directory exists, no need to create the folder' | 
+13:38:12.798 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (3).pdf'}) | 
+13:38:12.794 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:38:12.800 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (3).tag'}) | 
+13:46:03.051 | Info | '--- Starting ---' | 
+13:46:05.187 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:46:05.215 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:46:05.266 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:46:05.251 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:46:05.573 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:46:05.640 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:46:05.722 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+13:46:05.667 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+13:46:05.745 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:46:05.749 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:46:05.751 | Info | 'Directory exists, no need to create the folder' | 
+13:46:05.754 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+13:46:05.755 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+13:46:05.791 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:46:05.804 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (1).pdf'}) | 
+13:46:05.794 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:46:05.796 | Info | 'Directory exists, no need to create the folder' | 
+13:46:05.808 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (1).tag'}) | 
+13:51:15.331 | Info | '--- Starting ---' | 
+13:51:17.448 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:51:17.469 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:51:17.677 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:51:17.720 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:51:17.782 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:51:17.784 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:51:17.785 | Info | 'Directory exists, no need to create the folder' | 
+13:51:17.790 | Info | 'Deleted File: c:/v1home/temp/tag/easy (2).tag' | 
+13:51:17.794 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (2).pdf' | 
+13:51:42.221 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+13:51:42.241 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+13:51:42.271 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+13:51:42.284 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+13:51:42.311 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+13:51:42.321 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+13:51:42.471 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:51:42.513 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:51:42.533 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:51:42.582 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:51:42.605 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+13:51:42.649 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+13:51:42.671 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:51:42.673 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:51:42.675 | Info | 'Directory exists, no need to create the folder' | 
+13:51:42.684 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (2).pdf' | 
+13:51:42.686 | Info | 'Deleted File: c:/v1home/temp/tag/easy (2).tag' | 
+13:51:42.694 | Info | 'Directory exists, no need to create the folder' | 
+13:51:42.691 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:51:42.693 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:51:42.718 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+13:51:42.712 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:51:42.740 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+13:51:42.746 | Info | 'Directory exists, no need to create the folder' | 
+13:51:42.744 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+13:51:42.754 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+13:51:42.757 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+14:02:32.827 | Info | '--- Starting ---' | 
+14:02:34.950 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:02:34.964 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:02:34.983 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:02:34.990 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:02:35.174 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+14:02:35.194 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+14:03:00.701 | Info | '--- Starting ---' | 
+14:03:02.817 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:03:02.833 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:03:02.859 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:03:02.853 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:03:03.021 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+14:03:03.053 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+14:05:22.711 | Info | '--- Starting ---' | 
+14:05:24.851 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:05:24.863 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:05:24.887 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:05:24.893 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:05:25.061 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+14:05:25.096 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+14:05:25.119 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+14:05:25.158 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+14:05:25.185 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:05:25.188 | Info | 'Directory exists, no need to create the folder' | 
+14:05:25.187 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:05:25.208 | Info | 'Deleted File: c:/v1home/temp/tag/easy (3).tag' | 
+14:05:25.209 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (3).pdf' | 
+14:05:25.259 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:05:25.261 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:05:25.262 | Info | 'Directory exists, no need to create the folder' | 
+14:05:25.268 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (3).tag'}) | 
+14:05:25.275 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (3).pdf'}) | 
+14:25:41.099 | Info | '--- Starting ---' | 
+14:25:43.242 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:25:43.252 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:25:43.411 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+14:25:43.394 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+14:25:43.453 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:25:43.454 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:25:43.455 | Info | 'Directory exists, no need to create the folder' | 
+14:25:43.458 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+14:25:43.459 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+14:26:10.471 | Info | '--- Starting ---' | 
+14:26:38.481 | Info | '--- Starting ---' | 
+14:26:51.568 | Info | '--- Starting ---' | 
+14:26:59.776 | Info | '--- Starting ---' | 
+14:28:21.232 | Info | '--- Starting ---' | 
+14:29:03.404 | Info | '--- Starting ---' | 
+14:29:18.650 | Info | '--- Starting ---' | 
+14:30:12.511 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:30:12.549 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:30:12.561 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+14:30:12.565 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+14:30:12.543 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:30:12.527 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:30:12.684 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+14:30:12.661 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+14:30:12.695 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+14:30:12.722 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+14:30:12.712 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+14:30:12.737 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+14:30:12.746 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:30:12.747 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:30:12.748 | Info | 'Directory exists, no need to create the folder' | 
+14:30:12.751 | Info | 'Deleted File: c:/v1home/temp/tag/easy (2).tag' | 
+14:30:12.751 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (2).pdf' | 
+14:30:12.752 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:30:12.755 | Info | 'Directory exists, no need to create the folder' | 
+14:30:12.753 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:30:12.759 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+14:30:12.761 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+14:30:12.775 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:30:12.779 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (2).tag'}) | 
+14:30:12.776 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:30:12.777 | Info | 'Directory exists, no need to create the folder' | 
+14:30:12.780 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (2).pdf'}) | 
+14:30:50.638 | Info | '--- Starting ---' | 
+14:30:52.788 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:30:52.775 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:31:13.206 | Info | '--- Starting ---' | 
+14:31:15.347 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:31:15.364 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:32:54.446 | Info | '--- Starting ---' | 
+14:32:56.588 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:32:56.629 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+14:32:56.672 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+14:32:56.644 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:32:56.690 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:32:56.691 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:32:56.692 | Info | 'Directory exists, no need to create the folder' | 
+14:32:56.695 | Info | 'Deleted File: c:/v1home/temp/tag/easy (1).tag' | 
+14:32:56.696 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (1).pdf' | 
+14:32:56.720 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:32:56.722 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:32:56.723 | Info | 'Directory exists, no need to create the folder' | 
+14:32:56.728 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\tag\\easy (1).tag'}) | 
+14:32:56.730 | Info | ({'errno':-4058,'code':'ENOENT','syscall':'unlink','path':'c:\\v1home\\temp\\pdf\\easy (1).pdf'}) | 
+14:42:49.843 | Info | '--- Starting ---' | 
+14:42:51.963 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+14:42:51.915 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:42:52.012 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:42:52.020 | Info | 'Deleted File: c:/v1home/temp/tag/easy (3).tag' | 
+14:42:52.021 | Info | 'Deleted File: c:\\v1home\\temp\\pdf\\easy (3).pdf' | 
+14:45:21.465 | Info | '--- Starting ---' | 
+14:45:23.618 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:45:23.621 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:45:23.780 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+14:45:23.807 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+14:45:23.861 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:45:23.863 | Info | 'Directory exists, no need to create the folder' | 
+14:45:23.862 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:45:38.263 | Info | '--- Starting ---' | 
+14:46:28.016 | Info | '--- Starting ---' | 
+14:46:45.130 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:46:45.157 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:46:45.134 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:46:45.159 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:46:45.173 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+14:46:45.174 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+14:46:45.277 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+14:46:45.292 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+14:46:45.309 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+14:46:45.320 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+14:46:45.330 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+14:46:45.342 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+14:46:45.354 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:46:45.355 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:46:45.355 | Info | 'Directory exists, no need to create the folder' | 
+14:46:45.358 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:46:45.359 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:46:45.360 | Info | 'Directory exists, no need to create the folder' | 
+14:46:45.381 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:46:45.380 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:46:45.381 | Info | 'Directory exists, no need to create the folder' | 
+14:47:37.017 | Info | '--- Starting ---' | 
+14:47:39.192 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:47:39.197 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:47:39.218 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:47:39.219 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:47:39.358 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+14:47:39.339 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+14:47:39.384 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+14:47:39.368 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+14:47:39.402 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:47:39.407 | Info | 'Directory exists, no need to create the folder' | 
+14:47:39.405 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:47:39.441 | Info | 'Directory exists, no need to create the folder' | 
+14:47:39.440 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:47:39.437 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+14:54:01.100 | Info | '--- Starting ---' | 
+14:54:03.255 | Info | 'Error processing PDF with QPDF: TypeError: qpdf.decrypt is not a function' | 
+14:54:03.253 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:54:03.251 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:54:03.256 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:54:03.257 | Info | 'Directory exists, no need to create the folder' | 
+14:54:24.206 | Info | '--- Starting ---' | 
+14:55:00.759 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+14:55:00.761 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+14:55:00.762 | Info | 'Error processing PDF with QPDF: TypeError: decrypt is not a function' | 
+14:55:00.763 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:55:00.764 | Info | 'Directory exists, no need to create the folder' | 
+14:55:00.769 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+14:55:00.770 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+14:55:00.771 | Info | 'Error processing PDF with QPDF: TypeError: decrypt is not a function' | 
+14:55:00.772 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:55:00.773 | Info | 'Directory exists, no need to create the folder' | 
+14:55:00.865 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+14:55:00.866 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+14:55:00.867 | Info | 'Error processing PDF with QPDF: TypeError: decrypt is not a function' | 
+14:55:00.868 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+14:55:00.868 | Info | 'Directory exists, no need to create the folder' | 
+15:14:56.057 | Info | '--- Starting ---' | 
+15:15:09.172 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:15:09.185 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:15:09.189 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:15:41.192 | Info | '--- Starting ---' | 
+15:15:43.350 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:15:43.345 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:15:43.352 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:15:43.354 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+15:15:43.355 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:15:43.357 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+15:16:36.990 | Info | '--- Starting ---' | 
+15:16:39.137 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:16:39.155 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:16:39.154 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:16:39.140 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+15:16:39.164 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:16:39.165 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+15:16:39.307 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:16:39.292 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+15:16:39.316 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+15:16:39.326 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:16:39.334 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+15:16:39.345 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:16:39.355 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:16:39.357 | Info | 'Directory exists, no need to create the folder' | 
+15:16:39.356 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:16:39.362 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:16:39.363 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:16:39.363 | Info | 'Directory exists, no need to create the folder' | 
+15:16:39.381 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:16:39.383 | Info | 'Directory exists, no need to create the folder' | 
+15:16:39.383 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:19:11.089 | Info | '--- Starting ---' | 
+15:19:13.234 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:19:13.251 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:19:13.374 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:19:13.375 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+15:19:13.391 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+15:19:13.402 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:19:13.403 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+15:19:13.414 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+15:19:13.429 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:19:13.431 | Info | 'Directory exists, no need to create the folder' | 
+15:19:13.430 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:19:13.456 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:19:13.455 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:19:13.457 | Info | 'Directory exists, no need to create the folder' | 
+15:20:13.981 | Info | '--- Starting ---' | 
+15:20:16.128 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:20:16.132 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+15:20:16.267 | Info | 'inside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+15:20:16.287 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+15:20:16.267 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+15:20:16.330 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:20:16.332 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:20:16.333 | Info | 'Directory exists, no need to create the folder' | 
+15:20:24.972 | Info | '--- Starting ---' | 
+15:20:36.035 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:20:36.039 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:20:36.060 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:20:36.061 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+15:20:36.073 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:20:36.074 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+15:20:36.176 | Info | 'inside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+15:20:36.192 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:20:36.177 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+15:20:36.201 | Info | 'inside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+15:20:36.201 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+15:20:36.213 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:20:36.223 | Info | 'inside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+15:20:36.224 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+15:20:36.234 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:20:36.244 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:20:36.246 | Info | 'Directory exists, no need to create the folder' | 
+15:20:36.245 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:20:36.252 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:20:36.255 | Info | 'Directory exists, no need to create the folder' | 
+15:20:36.255 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:20:36.272 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:20:36.272 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:20:36.273 | Info | 'Directory exists, no need to create the folder' | 
+15:22:19.270 | Info | '--- Starting ---' | 
+15:22:21.431 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:22:21.454 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:22:21.435 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+15:22:21.455 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:22:21.577 | Info | 'inside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:22:21.599 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+15:22:21.578 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+15:22:21.612 | Info | 'inside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:22:21.613 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+15:22:21.627 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+15:22:21.644 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:22:21.646 | Info | 'Directory exists, no need to create the folder' | 
+15:22:21.646 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:22:21.676 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:22:21.674 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:22:21.677 | Info | 'Directory exists, no need to create the folder' | 
+15:23:57.397 | Info | '--- Starting ---' | 
+15:23:59.553 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:23:59.572 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+15:23:59.620 | Info | 'Directory exists, no need to create the folder' | 
+15:23:59.618 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:23:59.619 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:24:18.701 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:24:18.723 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:24:18.756 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+15:24:18.740 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:24:18.779 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:24:18.777 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:24:18.782 | Info | 'Directory exists, no need to create the folder' | 
+15:24:18.811 | Info | 'Directory exists, no need to create the folder' | 
+15:24:18.809 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:24:18.810 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:47:15.399 | Info | '--- Starting ---' | 
+15:47:17.525 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:47:17.495 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:47:17.583 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:47:17.585 | Info | 'Directory exists, no need to create the folder' | 
+15:47:17.584 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:49:40.604 | Info | '--- Starting ---' | 
+15:50:04.364 | Info | '--- Starting ---' | 
+15:50:34.679 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:50:34.721 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+15:50:34.749 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:50:34.779 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+15:50:34.806 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+15:50:34.833 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+15:50:34.860 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:50:34.863 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:50:34.864 | Info | 'Directory exists, no need to create the folder' | 
+15:50:34.872 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:50:34.874 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:50:34.876 | Info | 'Directory exists, no need to create the folder' | 
+15:50:34.904 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:50:34.909 | Info | 'Directory exists, no need to create the folder' | 
+15:50:34.907 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:54:17.109 | Info | '--- Starting ---' | 
+15:54:19.281 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:54:19.279 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:54:19.642 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+15:54:19.641 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+15:59:13.583 | Info | '--- Starting ---' | 
+15:59:15.711 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:59:15.713 | Info | 'outside exec: "C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+15:59:47.534 | Info | '--- Starting ---' | 
+15:59:49.633 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+15:59:49.666 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc C:\\v1home\\pdf_poll\\203\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+15:59:49.715 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+15:59:49.717 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+15:59:49.718 | Info | 'Directory exists, no need to create the folder' | 
+16:00:44.461 | Info | '--- Starting ---' | 
+16:01:08.764 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+16:01:08.759 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+16:01:08.927 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+16:01:08.963 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+16:01:09.022 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:01:09.026 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:01:09.027 | Info | 'Directory exists, no need to create the folder' | 
+16:03:25.456 | Info | '--- Starting ---' | 
+16:03:39.566 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+16:03:39.572 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+16:03:39.745 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+16:03:39.783 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+16:03:39.843 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:03:39.849 | Info | 'Directory exists, no need to create the folder' | 
+16:03:39.847 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:06:16.197 | Info | '--- Starting ---' | 
+16:06:30.339 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+16:06:30.345 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+16:06:30.547 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+16:06:30.509 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+16:06:30.599 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:06:30.602 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:06:30.604 | Info | 'Directory exists, no need to create the folder' | 
+16:06:59.155 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+16:06:59.158 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+16:06:59.179 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+16:06:59.180 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+16:06:59.195 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (1).pdf' | 
+16:06:59.196 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" "c:\\v1home\\temp\\pdf\\easy (1).pdf"' | 
+16:06:59.331 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+16:06:59.346 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+16:06:59.360 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+16:06:59.376 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+16:06:59.389 | Info | 'QPDF conversion successful for file: easy (1).pdf' | 
+16:06:59.404 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (1).pdf -t c:/v1home/temp/tag/easy (1).tag' | 
+16:06:59.417 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:06:59.418 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:06:59.419 | Info | 'Directory exists, no need to create the folder' | 
+16:06:59.436 | Info | 'Directory exists, no need to create the folder' | 
+16:06:59.435 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:06:59.433 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:06:59.475 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (1).pdf" -t "c:/v1home/temp/tag/easy (1).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:06:59.477 | Info | 'Directory exists, no need to create the folder' | 
+16:06:59.476 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (1).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:13:14.776 | Info | '--- Starting ---' | 
+16:13:16.905 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+16:13:16.908 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+16:13:16.926 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (3).pdf' | 
+16:13:16.927 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" "c:\\v1home\\temp\\pdf\\easy (3).pdf"' | 
+16:13:17.099 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+16:13:17.077 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+16:13:17.112 | Info | 'QPDF conversion successful for file: easy (3).pdf' | 
+16:13:17.128 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (3).pdf -t c:/v1home/temp/tag/easy (3).tag' | 
+16:13:17.143 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:13:17.144 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:13:17.145 | Info | 'Directory exists, no need to create the folder' | 
+16:13:17.169 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (3).pdf" -t "c:/v1home/temp/tag/easy (3).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:13:17.170 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (3).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:13:17.170 | Info | 'Directory exists, no need to create the folder' | 
+16:14:29.928 | Info | '--- Starting ---' | 
+16:14:32.057 | Info | 'Found file: C:\\v1home\\pdf_poll\\203\\easy (2).pdf' | 
+16:14:32.062 | Info | '"C:/V1Home/utils/qpdf-10.5.0/bin/qpdf.exe" -decrypt "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" "c:\\v1home\\temp\\pdf\\easy (2).pdf"' | 
+16:14:32.229 | Info | 'QPDF conversion successful for file: easy (2).pdf' | 
+16:14:32.253 | Info | 'C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc c:\\v1home\\temp\\pdf\\easy (2).pdf -t c:/v1home/temp/tag/easy (2).tag' | 
+16:14:32.301 | Info | 'An error has occurred: Error: Command failed: C:/v1home/utils/dbcaputil.exe DEPOSIT -s v1ap-whatever -o 32000 -l NORGE:CAPUTIL -u NORGE -p NORGE -dbcp NORGE_Purchase_Invoices -dbcs -i DbCapture.dbcs -y PDF -doc "c:\\v1home\\temp\\pdf\\easy (2).pdf" -t "c:/v1home/temp/tag/easy (2).tag"\n\'C:/v1home/utils/dbcaputil.exe\' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n' | 
+16:14:32.303 | Info | 'Moving this file: "C:\\v1home\\pdf_poll\\203\\easy (2).pdf" to Failed Directory: "c:\\v1home\\failed\\pdf\\203"' | 
+16:14:32.304 | Info | 'Directory exists, no need to create the folder' | 
+16:14:54.257 | Info | '--- Starting ---' | 
+16:15:39.539 | Info | '--- Starting ---' | 
+16:16:01.190 | Info | '--- Starting ---' | 
+16:16:31.123 | Info | '--- Starting ---' | 

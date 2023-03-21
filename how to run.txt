@@ -1,0 +1,1 @@
+open up folder and do npm run dev, can also be installed as a service by running install.cmd, you'll need to bring your own node.exe
