@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.3",
     "chokidar": "^3.5.2",
     "fastq": "^1.15.0",
     "node-file-logger": "^0.9.5",

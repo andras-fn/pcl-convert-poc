@@ -1,6 +1,5 @@
 const fileWatcher = require("chokidar");
 const config = require("./config.json");
-//const async = require("async");
 const log = require("node-file-logger");
 const path = require("path");
 const fs = require("fs");
@@ -168,13 +167,7 @@ async function worker(task) {
       logger(`DbSVPDF CMD: ${dbsvpdfCmd}`);
     }
 
-    // run the dbsvpdf command
-    // var result = execSync(dbsvpdfCmd).toString();
-    // var result = execFileSync(config.dbsvpdfPath, [
-    //   task.filePath,
-    //   pdfFilePath,
-    // ]).toString();
-
+    // run the convert command
     exec(`${dbsvpdfCmd}`, async (err, stdout, stderr) => {
       if (err || stderr) {
         // error from the commandline
